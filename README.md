@@ -7,7 +7,7 @@ This project demonstrates an interactive business intelligence and analytics sol
 
 ## 🚀 Project Overview
 
-The **Mobile_Power-BI-Analytics-Dashboard** provides an interactive view of sales performance using a centralized `Sales data` dataset.
+The **Mobile_Power-BI-Analytics-Dashboard** provides an interactive view of sales performance using a centralized `Sales data.xlsx` dataset.
 
 The dashboard enables users to analyze:
 
